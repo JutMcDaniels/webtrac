@@ -24,6 +24,11 @@
 .VIpgJd-ZVi9od-l4eHX-hSRGPd {
 	display: none !important;
 }
+#:1.close {
+	z-index: 20000000;
+    position: fixed;
+    right: 0;
+}
 body {
 	top: 0 !important;
 }
