@@ -24,17 +24,8 @@
 .VIpgJd-ZVi9od-l4eHX-hSRGPd {
 	display: none !important;
 }
-.VIpgJd-ZVi9od-ORHb-OEVmcd {
-    left: 0;
-    top: 62px;
-    height: 39px;
-    width: calc(100% - 60px);
-    z-index: 10000001;
-    position: fixed;
-    border: none;
-    border-bottom: 1px solid #6B90DA;
-    margin: 0;
-    box-shadow: 0 0 8px 1px #999;
+.goog-te-banner-frame.skiptranslate {
+    display: none !important;
 }
 body {
 	top: 0 !important;
