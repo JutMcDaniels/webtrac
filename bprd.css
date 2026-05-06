@@ -387,7 +387,7 @@ a.button-finderNav-active {
     }
 }
 
-@media (max-width: 991px) {
+@media (max-width: 991px) and (max-width: 991.98px){
 	#header #header-top #header-logo {
         overflow: hidden;
         text-align: center;
