@@ -443,8 +443,11 @@ a.button-finderNav-active {
 		height: 100vh;
 	}
 	#google_translate_element {
-		position: fixed;
-	}
+        position: fixed;
+        width: 100%;
+        z-index: 5;
+        background: var(--gray-color);
+    }
 
     p.bprdContactInfo {
         text-align: center;
